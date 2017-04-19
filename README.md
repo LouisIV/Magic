@@ -1,6 +1,5 @@
 # Magic
-## Base for the Magic AI
+Base for the Magic AI
 
-<p>This is <a href="http://example.com/" title="Title">
-an example</a> inline link.</p>
+<a href="https://github.com/LouisIV/Magic/tree/master/Profile" title="Title">Profile</a>
 
